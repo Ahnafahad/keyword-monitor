@@ -1,0 +1,112 @@
+[
+  {
+    "type": "post",
+    "id": "1000000000",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:1000000000",
+    "content": "Example AI engineer Bangladesh post 1. This synthetic record exercises the LinkedIn mapping.",
+    "author": {
+      "name": "Example Author 1",
+      "publicIdentifier": "example-author-1",
+      "linkedinUrl": "https://www.linkedin.com/in/example-author-1/"
+    },
+    "postedAt": {
+      "date": "2026-10-05T12:00:00.000Z"
+    },
+    "engagement": {
+      "likes": 1,
+      "comments": 0,
+      "shares": 0
+    },
+    "query": {
+      "search": "AI engineer Bangladesh"
+    }
+  },
+  {
+    "type": "post",
+    "id": "1000000001",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:1000000001",
+    "content": "Example AI engineer Bangladesh post 2. This synthetic record exercises the LinkedIn mapping.",
+    "author": {
+      "name": "Example Author 2",
+      "publicIdentifier": "example-author-2",
+      "linkedinUrl": "https://www.linkedin.com/in/example-author-2/"
+    },
+    "postedAt": {
+      "date": "2026-10-05T12:00:00.000Z"
+    },
+    "engagement": {
+      "likes": 2,
+      "comments": 1,
+      "shares": 0
+    },
+    "query": {
+      "search": "AI engineer Bangladesh"
+    }
+  },
+  {
+    "type": "post",
+    "id": "1000000002",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:1000000002",
+    "content": "Example AI engineer Bangladesh post 3. This synthetic record exercises the LinkedIn mapping.",
+    "author": {
+      "name": "Example Author 3",
+      "publicIdentifier": "example-author-3",
+      "linkedinUrl": "https://www.linkedin.com/in/example-author-3/"
+    },
+    "postedAt": {
+      "date": "2026-10-05T12:00:00.000Z"
+    },
+    "engagement": {
+      "likes": 3,
+      "comments": 2,
+      "shares": 0
+    },
+    "query": {
+      "search": "AI engineer Bangladesh"
+    }
+  },
+  {
+    "type": "post",
+    "id": "1000000003",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:1000000003",
+    "content": "Example AI engineer Bangladesh post 4. This synthetic record exercises the LinkedIn mapping.",
+    "author": {
+      "name": "Example Author 4",
+      "publicIdentifier": "example-author-4",
+      "linkedinUrl": "https://www.linkedin.com/in/example-author-4/"
+    },
+    "postedAt": {
+      "date": "2026-10-05T12:00:00.000Z"
+    },
+    "engagement": {
+      "likes": 4,
+      "comments": 3,
+      "shares": 0
+    },
+    "query": {
+      "search": "AI engineer Bangladesh"
+    }
+  },
+  {
+    "type": "post",
+    "id": "1000000004",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:1000000004",
+    "content": "Example AI engineer Bangladesh post 5. This synthetic record exercises the LinkedIn mapping.",
+    "author": {
+      "name": "Example Author 5",
+      "publicIdentifier": "example-author-5",
+      "linkedinUrl": "https://www.linkedin.com/in/example-author-5/"
+    },
+    "postedAt": {
+      "date": "2026-10-05T12:00:00.000Z"
+    },
+    "engagement": {
+      "likes": 5,
+      "comments": 4,
+      "shares": 0
+    },
+    "query": {
+      "search": "AI engineer Bangladesh"
+    }
+  }
+]

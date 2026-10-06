@@ -1,0 +1,77 @@
+[
+  {
+    "id": "2000000000",
+    "url": "https://x.com/example1/status/2000000000",
+    "text": "Synthetic AI engineer Bangladesh tweet 1",
+    "createdAt": "2026-10-05T12:00:00.000Z",
+    "author": {
+      "name": "Example Author 1",
+      "username": "example1"
+    },
+    "likeCount": 1,
+    "entities": {
+      "urls": [],
+      "hashtags": []
+    }
+  },
+  {
+    "id": "2000000001",
+    "url": "https://x.com/example2/status/2000000001",
+    "text": "Synthetic AI engineer Bangladesh tweet 2",
+    "createdAt": "2026-10-05T12:00:00.000Z",
+    "author": {
+      "name": "Example Author 2",
+      "username": "example2"
+    },
+    "likeCount": 2,
+    "entities": {
+      "urls": [],
+      "hashtags": []
+    }
+  },
+  {
+    "id": "2000000002",
+    "url": "https://x.com/example3/status/2000000002",
+    "text": "Synthetic AI engineer Bangladesh tweet 3",
+    "createdAt": "2026-10-05T12:00:00.000Z",
+    "author": {
+      "name": "Example Author 3",
+      "username": "example3"
+    },
+    "likeCount": 3,
+    "entities": {
+      "urls": [],
+      "hashtags": []
+    }
+  },
+  {
+    "id": "2000000003",
+    "url": "https://x.com/example4/status/2000000003",
+    "text": "Synthetic AI engineer Bangladesh tweet 4",
+    "createdAt": "2026-10-05T12:00:00.000Z",
+    "author": {
+      "name": "Example Author 4",
+      "username": "example4"
+    },
+    "likeCount": 4,
+    "entities": {
+      "urls": [],
+      "hashtags": []
+    }
+  },
+  {
+    "id": "2000000004",
+    "url": "https://x.com/example5/status/2000000004",
+    "text": "Synthetic AI engineer Bangladesh tweet 5",
+    "createdAt": "2026-10-05T12:00:00.000Z",
+    "author": {
+      "name": "Example Author 5",
+      "username": "example5"
+    },
+    "likeCount": 5,
+    "entities": {
+      "urls": [],
+      "hashtags": []
+    }
+  }
+]

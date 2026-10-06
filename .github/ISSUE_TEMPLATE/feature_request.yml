@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest a change to Keyword Monitor.
+body:
+  - type: markdown
+    attributes:
+      value: Please search existing issues first and describe the use case before suggesting an implementation.
+  - type: textarea
+    id: use_case
+    attributes:
+      label: What are you trying to do?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested change
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered

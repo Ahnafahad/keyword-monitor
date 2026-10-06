@@ -1,0 +1,51 @@
+[
+  {
+    "searchQuery": {
+      "term": "AI engineer Bangladesh"
+    },
+    "organicResults": [
+      {
+        "title": "Synthetic AI engineer page 1",
+        "url": "https://example.org/posts/ai-engineer-1",
+        "description": "Synthetic search snippet about AI engineering in Bangladesh.",
+        "date": "2026-10-05",
+        "position": 1
+      },
+      {
+        "title": "Synthetic AI engineer page 2",
+        "url": "https://example.org/posts/ai-engineer-2",
+        "description": "Synthetic search snippet about AI engineering in Bangladesh.",
+        "date": "2026-10-05",
+        "position": 2
+      },
+      {
+        "title": "Synthetic AI engineer page 3",
+        "url": "https://example.org/posts/ai-engineer-3",
+        "description": "Synthetic search snippet about AI engineering in Bangladesh.",
+        "date": "2026-10-05",
+        "position": 3
+      }
+    ]
+  },
+  {
+    "searchQuery": {
+      "term": "AI engineer Bangladesh"
+    },
+    "organicResults": [
+      {
+        "title": "Synthetic AI engineering page 4",
+        "url": "https://example.net/articles/ai-engineer-4",
+        "description": "Synthetic search snippet about AI engineering in Dhaka.",
+        "date": "2026-10-05",
+        "position": 4
+      },
+      {
+        "title": "Synthetic AI engineering page 5",
+        "url": "https://example.net/articles/ai-engineer-5",
+        "description": "Synthetic search snippet about AI engineering in Dhaka.",
+        "date": "2026-10-05",
+        "position": 5
+      }
+    ]
+  }
+]

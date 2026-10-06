@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Keyword Monitor</title>
+  <desc id="desc">A coral signal icon and wordmark, with search signals flowing into a result card on a dark background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151214"/>
+      <stop offset="1" stop-color="#0b0a0b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f27367" stop-opacity="0"/>
+      <stop offset=".46" stop-color="#f27367" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#f27367" stop-opacity=".55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" rx="18" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="1199" height="239" rx="17.5" fill="none" stroke="#3a2b2b"/>
+  <g transform="translate(61 76)">
+    <rect width="88" height="88" rx="20" fill="#f27367"/>
+    <path d="M15 45h16l8-19 12 39 9-20h13" fill="none" stroke="#22191a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="176" y="121" fill="#f8f4f2" font-size="47" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="-2">Keyword Monitor</text>
+  <text x="178" y="154" fill="#ada3a1" font-size="18" font-family="Arial, Helvetica, sans-serif">Search. Match. Keep track.</text>
+  <g fill="none" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round">
+    <path d="M655 121H833"/>
+    <path d="M708 83h70q24 0 24 24v14"/>
+    <path d="M708 159h70q24 0 24-24v-14"/>
+  </g>
+  <g fill="#f27367">
+    <circle cx="713" cy="83" r="5"/>
+    <circle cx="674" cy="121" r="5"/>
+    <circle cx="713" cy="159" r="5"/>
+  </g>
+  <g transform="translate(831 46)">
+    <rect width="300" height="148" rx="13" fill="#1c191a" stroke="#473636"/>
+    <rect x="21" y="21" width="60" height="20" rx="5" fill="#39262b"/>
+    <circle cx="31" cy="31" r="3" fill="#f27367"/>
+    <path d="M98 28h94M21 70h211M21 93h254M21 116h183" stroke="#756a68" stroke-width="8" stroke-linecap="round" opacity=".7"/>
+    <path d="M21 132h63" stroke="#f27367" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

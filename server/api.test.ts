@@ -7,7 +7,7 @@ import { item, monitorInput, testCtx } from './test-helpers.ts';
 import type { Monitor, Result, Run, Stats, SystemInfo } from './types.ts';
 
 // One app on an ephemeral loopback port for the whole file; tests use distinct data.
-const t = testCtx({ x: () => ({ items: [item({ sourceId: 'from-run', content: 'produced by the fake run' })] }) });
+const t = testCtx({ x: () => ({ items: [item({ sourceId: 'from-run', content: 'AI engineer produced by the fake run' })] }) });
 const server = createApp(t.ctx).listen(0, '127.0.0.1');
 let base = '';
 before(async () => {
